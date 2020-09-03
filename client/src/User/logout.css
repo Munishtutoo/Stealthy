@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Times New Roman');
+
+/* html,body{
+background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Times New Roman', sans-serif;
+} */
+
+.Login-component {
+    background: url(../User/img.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 1366px; */
+    /* height: 642px; */
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+.account-pages {
+    /* height: 100%; */
+    /* weight: 100%; */
+    /* padding: 90px 0px; */
+    margin-top: 17px;
+    margin-bottom: 70px;
+
+  }
+.card{
+min-height: 370px;
+/* margin-top: 100px; */
+/* margin-bottom: 113px; */
+/* margin-bottom: 5; */
+width: 100%;
+/* height: 100%; */
+background-color: #daedf7 !important;
+}
+
+.card-header{
+    font-size:15px;
+    color:#fff ;
+    font-style: italic;
+    height:auto;
+    display: block;
+}
+
+.Logo {
+    position: left;
+  }
